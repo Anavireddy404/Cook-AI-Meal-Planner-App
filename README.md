@@ -4,7 +4,7 @@ Cook is a full-stack meal-planning platform for building a complete weekly food 
 
 The project is designed as a real production-style system. The React client communicates with a protected Express API, MongoDB stores user and planning data, external recipe providers supply meal ideas, and Meta Llama 3.3 70B powers structured nutrition and meal-plan generation.
 
-**Live application:** [cook.monishpatalay.dev](https://cook.monishpatalay.dev)
+**Live application:** https://cook-ai-meal-planner-app-git-main-anavi404.vercel.app/
 
 ## What Cook does
 
